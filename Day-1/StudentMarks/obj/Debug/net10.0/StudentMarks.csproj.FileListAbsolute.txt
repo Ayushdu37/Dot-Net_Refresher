@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\StudentMarks\bin\Debug\net10.0\StudentMarks.exe
+D:\RefresherTraining\Day-1\StudentMarks\bin\Debug\net10.0\StudentMarks.deps.json
+D:\RefresherTraining\Day-1\StudentMarks\bin\Debug\net10.0\StudentMarks.runtimeconfig.json
+D:\RefresherTraining\Day-1\StudentMarks\bin\Debug\net10.0\StudentMarks.dll
+D:\RefresherTraining\Day-1\StudentMarks\bin\Debug\net10.0\StudentMarks.pdb
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.dll
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\refint\StudentMarks.dll
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.pdb
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\StudentMarks.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\StudentMarks\obj\Debug\net10.0\ref\StudentMarks.dll

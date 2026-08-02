@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\ElectricityBilling\bin\Debug\net10.0\ElectricityBilling.exe
+D:\RefresherTraining\Day-1\ElectricityBilling\bin\Debug\net10.0\ElectricityBilling.deps.json
+D:\RefresherTraining\Day-1\ElectricityBilling\bin\Debug\net10.0\ElectricityBilling.runtimeconfig.json
+D:\RefresherTraining\Day-1\ElectricityBilling\bin\Debug\net10.0\ElectricityBilling.dll
+D:\RefresherTraining\Day-1\ElectricityBilling\bin\Debug\net10.0\ElectricityBilling.pdb
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.dll
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\refint\ElectricityBilling.dll
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.pdb
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ElectricityBilling.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\ElectricityBilling\obj\Debug\net10.0\ref\ElectricityBilling.dll

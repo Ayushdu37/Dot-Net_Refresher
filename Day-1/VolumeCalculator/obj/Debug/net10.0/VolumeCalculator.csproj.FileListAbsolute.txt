@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\VolumeCalculator\bin\Debug\net10.0\VolumeCalculator.exe
+D:\RefresherTraining\Day-1\VolumeCalculator\bin\Debug\net10.0\VolumeCalculator.deps.json
+D:\RefresherTraining\Day-1\VolumeCalculator\bin\Debug\net10.0\VolumeCalculator.runtimeconfig.json
+D:\RefresherTraining\Day-1\VolumeCalculator\bin\Debug\net10.0\VolumeCalculator.dll
+D:\RefresherTraining\Day-1\VolumeCalculator\bin\Debug\net10.0\VolumeCalculator.pdb
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.dll
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\refint\VolumeCalculator.dll
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.pdb
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\VolumeCalculator.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\VolumeCalculator\obj\Debug\net10.0\ref\VolumeCalculator.dll

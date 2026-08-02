@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.exe
+D:\RefresherTraining\Day-1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.deps.json
+D:\RefresherTraining\Day-1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.runtimeconfig.json
+D:\RefresherTraining\Day-1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.dll
+D:\RefresherTraining\Day-1\PayrollSystem\bin\Debug\net10.0\PayrollSystem.pdb
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.dll
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\refint\PayrollSystem.dll
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.pdb
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\PayrollSystem.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\PayrollSystem\obj\Debug\net10.0\ref\PayrollSystem.dll

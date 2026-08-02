@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.exe
+D:\RefresherTraining\Day-1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.deps.json
+D:\RefresherTraining\Day-1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.runtimeconfig.json
+D:\RefresherTraining\Day-1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.dll
+D:\RefresherTraining\Day-1\InvestmentCalculator\bin\Debug\net10.0\InvestmentCalculator.pdb
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.dll
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\refint\InvestmentCalculator.dll
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.pdb
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\InvestmentCalculator.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\InvestmentCalculator\obj\Debug\net10.0\ref\InvestmentCalculator.dll

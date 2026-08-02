@@ -1,0 +1,14 @@
+D:\RefresherTraining\Day-1\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.exe
+D:\RefresherTraining\Day-1\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.deps.json
+D:\RefresherTraining\Day-1\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.runtimeconfig.json
+D:\RefresherTraining\Day-1\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.dll
+D:\RefresherTraining\Day-1\RetailStoreBilling\bin\Debug\net10.0\RetailStoreBilling.pdb
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.AssemblyInfoInputs.cache
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.AssemblyInfo.cs
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.dll
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\refint\RetailStoreBilling.dll
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.pdb
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\RetailStoreBilling.genruntimeconfig.cache
+D:\RefresherTraining\Day-1\RetailStoreBilling\obj\Debug\net10.0\ref\RetailStoreBilling.dll
