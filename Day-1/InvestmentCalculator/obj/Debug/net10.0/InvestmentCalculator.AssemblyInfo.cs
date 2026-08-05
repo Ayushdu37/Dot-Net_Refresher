@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvestmentCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34224eb07d21d1a61417c8cd2f46990cbcadc961")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvestmentCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvestmentCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

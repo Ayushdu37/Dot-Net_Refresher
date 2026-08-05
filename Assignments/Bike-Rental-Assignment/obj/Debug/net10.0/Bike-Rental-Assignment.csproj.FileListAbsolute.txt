@@ -1,0 +1,15 @@
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\bin\Debug\net10.0\Bike-Rental-Assignment.exe
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\bin\Debug\net10.0\Bike-Rental-Assignment.deps.json
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\bin\Debug\net10.0\Bike-Rental-Assignment.runtimeconfig.json
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\bin\Debug\net10.0\Bike-Rental-Assignment.dll
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\bin\Debug\net10.0\Bike-Rental-Assignment.pdb
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.AssemblyInfoInputs.cache
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.AssemblyInfo.cs
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.csproj.CoreCompileInputs.cache
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.sourcelink.json
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.dll
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\refint\Bike-Rental-Assignment.dll
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.pdb
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\Bike-Rental-Assignment.genruntimeconfig.cache
+D:\RefresherTraining\Assignments\Bike-Rental-Assignment\obj\Debug\net10.0\ref\Bike-Rental-Assignment.dll
