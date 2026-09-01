@@ -1,0 +1,15 @@
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\bin\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.exe
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\bin\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.deps.json
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\bin\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.runtimeconfig.json
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\bin\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.dll
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\bin\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.pdb
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.AssemblyInfoInputs.cache
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.AssemblyInfo.cs
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.csproj.CoreCompileInputs.cache
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.sourcelink.json
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.dll
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\refint\Question4_ArithmeticExpressionEvaluator.dll
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.pdb
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\Question4_ArithmeticExpressionEvaluator.genruntimeconfig.cache
+d:\RefresherTraining\Day-2\Question4_ArithmeticExpressionEvaluator\obj\Debug\net10.0\ref\Question4_ArithmeticExpressionEvaluator.dll

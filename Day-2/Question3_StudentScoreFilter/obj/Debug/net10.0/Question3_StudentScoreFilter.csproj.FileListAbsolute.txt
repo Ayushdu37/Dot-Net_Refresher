@@ -1,0 +1,15 @@
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\bin\Debug\net10.0\Question3_StudentScoreFilter.exe
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\bin\Debug\net10.0\Question3_StudentScoreFilter.deps.json
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\bin\Debug\net10.0\Question3_StudentScoreFilter.runtimeconfig.json
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\bin\Debug\net10.0\Question3_StudentScoreFilter.dll
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\bin\Debug\net10.0\Question3_StudentScoreFilter.pdb
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.GeneratedMSBuildEditorConfig.editorconfig
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.AssemblyInfoInputs.cache
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.AssemblyInfo.cs
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.csproj.CoreCompileInputs.cache
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.sourcelink.json
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.dll
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\refint\Question3_StudentScoreFilter.dll
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.pdb
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\Question3_StudentScoreFilter.genruntimeconfig.cache
+d:\RefresherTraining\Day-2\Question3_StudentScoreFilter\obj\Debug\net10.0\ref\Question3_StudentScoreFilter.dll

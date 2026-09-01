@@ -1,0 +1,15 @@
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\bin\Debug\net10.0\Question2_MultiplicationTable.exe
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\bin\Debug\net10.0\Question2_MultiplicationTable.deps.json
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\bin\Debug\net10.0\Question2_MultiplicationTable.runtimeconfig.json
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\bin\Debug\net10.0\Question2_MultiplicationTable.dll
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\bin\Debug\net10.0\Question2_MultiplicationTable.pdb
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.AssemblyInfoInputs.cache
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.AssemblyInfo.cs
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.csproj.CoreCompileInputs.cache
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.sourcelink.json
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.dll
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\refint\Question2_MultiplicationTable.dll
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.pdb
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\Question2_MultiplicationTable.genruntimeconfig.cache
+d:\RefresherTraining\Day-2\Question2_MultiplicationTable\obj\Debug\net10.0\ref\Question2_MultiplicationTable.dll

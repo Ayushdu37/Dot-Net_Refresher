@@ -1,0 +1,15 @@
+d:\RefresherTraining\Day-2\Question1_Swapping\bin\Debug\net10.0\Question1_Swapping.exe
+d:\RefresherTraining\Day-2\Question1_Swapping\bin\Debug\net10.0\Question1_Swapping.deps.json
+d:\RefresherTraining\Day-2\Question1_Swapping\bin\Debug\net10.0\Question1_Swapping.runtimeconfig.json
+d:\RefresherTraining\Day-2\Question1_Swapping\bin\Debug\net10.0\Question1_Swapping.dll
+d:\RefresherTraining\Day-2\Question1_Swapping\bin\Debug\net10.0\Question1_Swapping.pdb
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.GeneratedMSBuildEditorConfig.editorconfig
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.AssemblyInfoInputs.cache
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.AssemblyInfo.cs
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.csproj.CoreCompileInputs.cache
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.sourcelink.json
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.dll
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\refint\Question1_Swapping.dll
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.pdb
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\Question1_Swapping.genruntimeconfig.cache
+d:\RefresherTraining\Day-2\Question1_Swapping\obj\Debug\net10.0\ref\Question1_Swapping.dll
