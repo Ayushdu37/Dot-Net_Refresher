@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VolumeCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34224eb07d21d1a61417c8cd2f46990cbcadc961")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1608adffaa0386ab0fe91d4b490c941141a8634d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VolumeCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VolumeCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
